@@ -15,16 +15,22 @@ wiringpiを用いてGPIOを操作しているため
 
 ## 操作方法
   1. 起動<br>
+  '''
     $ roscore  
     $ rosrun [pkg_name] led_flash_pub.py  
     $ rosrun [pkg_name] led_flash_sub.py
+  '''
   
   2. 入力<br>
+  '''
     $ input: [0, 1, 2, 3, 4, exit]
-    
-  3. 確認<br>
+  '''
+  
+  3. 出力<br>
+  '''
     例) $ 14 pin select 
-    
+  '''
+  
 ## 動画URL(GoogleDrive Twitter)
 https://drive.google.com/file/d/1MzeVCcGbIE8eBlQ-GHcbpvl2ZOpzAF7-/view?usp=sharing
 https://twitter.com/karaage5daisuki/status/1205050814277943296
