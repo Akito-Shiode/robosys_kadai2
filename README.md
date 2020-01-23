@@ -13,6 +13,8 @@ wiringpiを用いてGPIOを操作しているため
 ## ファイル配置
 提供されたScriptsファイルの中にある拡張子が.pyである実行ファイルを<br>
 自身の環境で作成した, ROSのScriptファイルの中に配置してください.
+<br><br>
+授業での例) catkin_ws/src/mypkg/scripts/led_flash_pub.py
 
 ## 課題2概要
 本プログラムはGPLのもと、アップロードされている.
