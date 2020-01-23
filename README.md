@@ -39,6 +39,6 @@ wiringpiを用いてGPIOを操作しているため
     例) $ 14 pin select 
   ```
   
-## 動画URL(GoogleDrive Twitter)
-https://drive.google.com/file/d/1MzeVCcGbIE8eBlQ-GHcbpvl2ZOpzAF7-/view?usp=sharing
-https://twitter.com/karaage5daisuki/status/1205050814277943296
+## 動画URL(GoogleDrive & Twitter)
+https://drive.google.com/file/d/1gr5KpxXDyiDg8rrD4BIMEO_xW3WwBvyS/view?usp=sharing
+https://twitter.com/karaage5daisuki/status/1220438645674594309
