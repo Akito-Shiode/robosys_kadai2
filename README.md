@@ -6,10 +6,9 @@ This repository is licensed under the GPLv3 license, see LICENSE.
 ## 動作に必要なパッケージ
 wiringpiを用いてGPIOを操作しているため
 <br>本プログラム実行時には下記のコマンドなどを用いてあらかじめインストールしておく<br>
-    ```
+   ```
     $ pip install wiringpi
-    ```
-
+   ```
 
 ## 課題2概要
 本プログラムはGPLのもと、アップロードされている。
