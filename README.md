@@ -1,4 +1,4 @@
-# robosys
+# ロボットシステム学 課題2
 
 ## ライセンス情報
 This repository is licensed under the GPLv3 license, see LICENSE.
