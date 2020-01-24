@@ -1,0 +1,14 @@
+<package format="2">
+  <name>led_flash</name>
+  <version>1.0.0</version>
+  <description>  This package provides led flash capability.  </description>
+  <maintainer email="s17c1070rv@s.chibakoudai.jp">Akito Shiode</maintainer>
+  <license>GPL 3.0</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>wiringpi</exec_depend>
+</package>

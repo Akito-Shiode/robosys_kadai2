@@ -18,7 +18,7 @@ wiringpiを用いてGPIOを操作しているため
 
 ## 課題2概要
 本プログラムはGPLのもと、アップロードされている.
-<br>本プログラムはROSを用いてLEDを光らすものである
+<br>本プログラムはROSを用いてLEDを光らすものである.
 <br>Publisher側では入力を受け付け, Subscriber側では入力された値をもとに出力先のPIN番号を確認することができる.
 
 ## 操作方法
@@ -29,16 +29,16 @@ wiringpiを用いてGPIOを操作しているため
     $ rosrun [pkg_name] led_flash_sub.py
   ```
   
-  2. 入力<br>
+  2. 入力(Publisher)<br>
   ```
     $ input: [0, 1, 2, 3, 4, exit]
   ```
   
-  3. 出力<br>
+  3. 出力(Subscriber)<br>
   ```
     例) $ 14 pin select 
   ```
   
-## 動画URL(GoogleDrive Twitter)
-https://drive.google.com/file/d/1MzeVCcGbIE8eBlQ-GHcbpvl2ZOpzAF7-/view?usp=sharing
-https://twitter.com/karaage5daisuki/status/1205050814277943296
+## 動画URL(GoogleDrive & Twitter)
+https://drive.google.com/file/d/1gr5KpxXDyiDg8rrD4BIMEO_xW3WwBvyS/view?usp=sharing
+https://twitter.com/karaage5daisuki/status/1220438645674594309
