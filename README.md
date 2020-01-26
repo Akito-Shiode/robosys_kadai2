@@ -24,7 +24,7 @@ wiringpiを用いてGPIOを操作しているため
 ## 操作方法
   1. 起動<br>
   ```
-    $ roslaunch myled myled.launch
+    $ roslaunch mymkg led_flash.launch
   ```
   
   2. 入力(Publisher)<br>
