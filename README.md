@@ -1,7 +1,7 @@
 # ロボットシステム学 課題2
 
 ## ライセンス情報
-This repository is licensed under the GPLv3 license, see LICENSE.
+This repository is licensed under the BSD license, see LICENSE.
 
 ## 動作に必要なパッケージ
 wiringpiを用いてGPIOを操作しているため
