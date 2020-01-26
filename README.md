@@ -24,9 +24,7 @@ wiringpiを用いてGPIOを操作しているため
 ## 操作方法
   1. 起動<br>
   ```
-    $ roscore  
-    $ rosrun [pkg_name] led_flash_pub.py  
-    $ rosrun [pkg_name] led_flash_sub.py
+    $ roslaunch myled myled.launch
   ```
   
   2. 入力(Publisher)<br>
